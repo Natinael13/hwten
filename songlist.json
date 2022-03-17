@@ -1,23 +1,23 @@
  [
      
      {
-        "Artitst": ["Gunna"],
-        "Title": "Pedestrian",
-        "Genre":["Hip-Hop"],
-        "Year": 2018
+        "Artitst": ["Otis Redding"],
+        "Title": "(Sittin' On) the Dock of the Bay",
+        "Genre":["Soul"],
+        "Year": 1968
      },
 
      {
         "Artitst": ["Drake", " Future", " YoungThug"],
         "Title": "Way2Sexy",
-        "Genre":["Hip-Hop", " Soul"],
+        "Genre":["Hip-Hop"],
         "Year": 2021
      },
 
      {
         "Artitst": ["Rihanna"],
         "Title": "Umbrella",
-        "Genre":["Pop", " Soul"],
+        "Genre":["Pop"],
         "Year": 2021
      },
 
