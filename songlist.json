@@ -4,70 +4,70 @@
         "Artitst": ["Gunna"],
         "Title": "Pedestrian",
         "Genre":["Hip-Hop"],
-        "Year Released": 2018
+        "Year": 2018
      },
 
      {
         "Artitst": ["Drake", "Future", "YoungThug"],
         "Title": "Way2Sexy",
         "Genre":["Hip/Hop", "Soul"],
-        "Year Released": 2021
+        "Year": 2021
      },
 
      {
         "Artitst": ["Rihanna"],
         "Title": "Umbrella",
         "Genre":["Pop", "Soul"],
-        "Year Released": 2021
+        "Year": 2021
      },
 
      {
         "Artitst": ["Gunna"],
         "Title": "Spending Addiction",
         "Genre":["Hip-Hop"],
-        "Year Released": 2018
+        "Year": 2018
      },
 
      {
         "Artitst": ["Gunna"],
         "Title": "Oh Ok",
         "Genre":["Hip-Hop"],
-        "Year Released": 2018
+        "Year": 2018
      },
 
      {
         "Artitst": ["Gunna", "Lil Durk"],
         "Title": "Lies About You",
         "Genre":["Hip-Hop"],
-        "Year Released": 2018
+        "Year": 2018
      },
 
      {
         "Artitst": ["Gunna", "Lil Yachty"],
         "Title": "Drip or Drown Remix",
         "Genre":["Hip-Hop"],
-        "Year Released": 2018
+        "Year": 2018
      },
 
      {
         "Artitst": ["Benny the Butcher", "Black Thought"],
         "Title": "Crowns for Kings",
         "Genre":["Hip-Hop"],
-        "Year Released": 2019
+        "Year": 2019
      },
 
      {
         "Artitst": ["Benny the Butcher", "J. Cole"],
         "Title": "Johnny P's Caddy",
         "Genre":["Hip-Hop"],
-        "Year Released": 2022
+        "Year": 2022
      },
 
      {
         "Artitst": ["Michael Jackson"],
         "Title": "Dont Stop 'Til You Get Enough",
         "Genre":["Pop"],
-        "Year Released": 1979
+        "Year": 1979
      }
 
  ]
